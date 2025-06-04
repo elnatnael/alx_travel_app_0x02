@@ -1,4 +1,8 @@
-Django project with the necessary dependencies, configure the database, and add Swagger for API documentation.
-Django and Django REST Framework.
-MySQL and database management.
-basic grasp of environment variable management using django-environ.
+Django>=4.2
+djangorestframework
+django-cors-headers
+celery
+drf-yasg
+mysqlclient
+django-environ
+

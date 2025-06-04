@@ -3,3 +3,29 @@ __pycache__/
 .env
 *.pyc
 .DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+env/
+*.env
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Static and media files
+/static/
+media/
+
+# Migrations (optional)
+*/migrations/__pycache__/
+*.log
