@@ -67,6 +67,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     'corsheaders',
     'listings',
+    'django_seed',
 ]
 
 MIDDLEWARE = [
@@ -83,7 +84,7 @@ MIDDLEWARE = [
 
 CORS_ALLOW_ALL_ORIGINS = True  # OK for development
 
-ROOT_URLCONF = 'config.urls'
+ROOT_URLCONF = 'alx_travel_app.urls'  # or whatever your main project folder is named
 
 TEMPLATES = [
     {
